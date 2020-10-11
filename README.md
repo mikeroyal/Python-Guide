@@ -18,6 +18,8 @@
 
 [Real Python](https://realpython.com)
 
+[The Python Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs-python)
+
 [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 [Intro to Python by w3schools](https://www.w3schools.com/python/python_intro.asp)
