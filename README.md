@@ -8,9 +8,25 @@
 
 ## Resources
 
-[Python](https://www.python.org) is an interpreted, high-level programming language. 
+[Python](https://www.python.org) is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning. 
 
 [Python Developer’s Guide](https://devguide.python.org) is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python. 
+
+[Python Institute](https://pythoninstitute.org)
+
+[PCEP – Certified Entry-Level Python Programmer certification](https://pythoninstitute.org/pcep-certification-entry-level/)
+
+[PCAP – Certified Associate in Python Programming certification](https://pythoninstitute.org/pcap-certification-associate/)
+
+[PCPP – Certified Professional in Python Programming 1 certification](https://pythoninstitute.org/pcpp-certification-professional/)
+
+[PCPP – Certified Professional in Python Programming 2](https://pythoninstitute.org/pcpp-certification-professional/)
+
+[MTA: Introduction to Programming Using Python Certification](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python)
+
+[Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+[Google's Python Education Class](https://developers.google.com/edu/python/)
 
 [Azure Functions Python developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python) is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the [Azure Functions developers guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference).
 
@@ -25,6 +41,10 @@
 [Intro to Python by w3schools](https://www.w3schools.com/python/python_intro.asp)
 
 [Codecademy's Python 3 course](https://www.codecademy.com/learn/learn-python-3)
+
+[Learn Python with Online Courses and Classes from edX](https://www.edx.org/learn/python)
+
+[Python Courses Online from Coursera](https://www.coursera.org/courses?query=python)
 
 ## Tools
 
