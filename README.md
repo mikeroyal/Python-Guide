@@ -12,8 +12,6 @@
 
 [Python Developer’s Guide](https://devguide.python.org) is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python. 
 
-[Getting Started with Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
-
 [Azure Functions Python developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python) is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the [Azure Functions developers guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference).
 
 [CheckiO](https://checkio.org/) is a programming learning platform and a gamified website that teaches Python through solving code challenges and competing for the most elegant and creative solutions.
@@ -30,6 +28,8 @@
 
 [MTA: Introduction to Programming Using Python Certification](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python)
 
+[Getting Started with Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
+
 [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 [Google's Python Education Class](https://developers.google.com/edu/python/)
@@ -40,7 +40,7 @@
 
 [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-[Intro to Python by w3schools](https://www.w3schools.com/python/python_intro.asp)
+[Intro to Python by W3schools](https://www.w3schools.com/python/python_intro.asp)
 
 [Codecademy's Python 3 course](https://www.codecademy.com/learn/learn-python-3)
 
