@@ -6,7 +6,15 @@
 
 #### A guide covering the Python programming language including the applications and tools that will make you a better and more efficient Python developer.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118338208-696bd480-b4ca-11eb-97f4-697c2c4179ff.png">
+  <br />
+</p>
+
+
+## Python Learning Resources
 
 [Python](https://www.python.org) is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning. 
 
@@ -48,7 +56,7 @@
 
 [Python Courses Online from Coursera](https://www.coursera.org/courses?query=python)
 
-## Tools
+# Python Frameworks, Libraries, and Tools
 
 [Python Package Index (PyPI)](https://pypi.org/) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. 
 
@@ -113,3 +121,12 @@
 [Matplotlib](https://matplotlib.org/) is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Python-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
