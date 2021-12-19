@@ -9,10 +9,9 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/118338208-696bd480-b4ca-11eb-97f4-697c2c4179ff.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146692535-adec49d0-7755-4983-8446-5a32e8b1ea51.png">
   <br />
 </p>
-
 
 ## Python Learning Resources
 
@@ -56,7 +55,7 @@
 
 [Python Courses Online from Coursera](https://www.coursera.org/courses?query=python)
 
-# Python Frameworks, Libraries, and Tools
+## Python Frameworks, Libraries, and Tools
 
 [Python Package Index (PyPI)](https://pypi.org/) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. 
 
